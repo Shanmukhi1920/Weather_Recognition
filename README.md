@@ -33,6 +33,6 @@ Then, open `Weather_Recognition.ipynb` in Jupyter.
 
 - **First Model (Basic CNN)**: Best at classifying 'cloudy' and 'shine'. Struggled with 'rain'. Test accuracy: 82.4%.
 - **Second Model (Multi-Layer CNN)**: High accuracy across all classes, especially 'rain' and 'shine'. Test accuracy: 92%.
-- **Third Model (CNN with Merge Layers)**: Good at 'shine' and 'sunrise', some confusion between 'cloudy' and 'shine'. Test accuracy: 87%. 
+- **Third Model (CNN with Merge Layers)**: Good at 'shine','cloudy' and 'sunrise'.  Struggled with 'rain'. Test accuracy: 87%. 
 
 The Multi-Layer CNN model demonstrated the highest overall accuracy and ability to discern between the classes.
